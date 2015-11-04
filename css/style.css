@@ -114,6 +114,7 @@ font-weight: 600;
   align-items: center;
   height: 150px;
   width:280px;
+  margin-bottom: 20px;
 }
 
 .feature_title {
@@ -208,7 +209,7 @@ font-weight: 600;
   float: left;
   overflow: hidden;
   font-family: 'Open Sans',arial, sans-serif;
-  
+
 
 }
 .copyright a{
