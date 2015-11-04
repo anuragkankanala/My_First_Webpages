@@ -56,7 +56,7 @@ h1 img {
   font-family: 'Open Sans',arial, sans-serif;
   font-style: normal;
   color:black;
-  
+
 }
 
 .logo {
@@ -111,7 +111,9 @@ font-weight: 600;
 }
 
 .feature_set img {
-  height: 58px;
+  align-items: center;
+  height: 150px;
+  width:280px;
 }
 
 .feature_title {
@@ -130,7 +132,17 @@ font-weight: 600;
   text-align: justify;
 }
 
+.press img{
+  width:140px;
+  height:75px;
+  margin-bottom: 20px;
+}
 
+#press{
+  text-align: center;
+  font-family: 'Open Sans',arial, sans-serif;
+  color:rgb(102,102,102);
+}
 
 .pageLinks_social {
   margin-top: 10px;
@@ -196,7 +208,7 @@ font-weight: 600;
   float: left;
   overflow: hidden;
   font-family: 'Open Sans',arial, sans-serif;
-  color: rgb(102,102,102);
+  
 
 }
 .copyright a{
